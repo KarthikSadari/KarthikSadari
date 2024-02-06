@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I have developed proficiency in various technical skills such as HTML, CSS, Python, and SQL.<br>🌱 Through my academic journey, I have gained hands-on experience by working on diverse projects, including Energy Auditing, wireless notice board using P10 LED module, and Power system network security analysis with reference to voltage stability index.<br>💬 I am fluent in multiple languages, including Telugu, Hindi, and English
+"Cybersecurity enthusiast | Python aficionado | Constantly learning and evolving | Open to collaborations and opportunities to contribute to innovative projects in cybersecurity."
 
 
 ## 🌐 Socials:
